@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "19-sett"
             }
+          },
+          {
+            "id": "a81f923e01690d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/22-sett.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22-sett"
+            }
+          },
+          {
+            "id": "96ca0d38f6f6250b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LCMC/23-sett.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23-sett"
+            }
+          },
+          {
+            "id": "c6b0ecc3d81e8ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LCMC/24-sett.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24-sett"
+            }
+          },
+          {
+            "id": "3af8af339429f570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LCMC/24-sett.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24-sett"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -78,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "919c3e24d6bc81c3",
@@ -142,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SI/19-sett.md",
+                "file": "LCMC/24-sett.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 19-sett"
+              "title": "Outline of 24-sett"
             }
           }
         ],
@@ -167,14 +225,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "d9245f27a8e133c8",
+  "active": "3af8af339429f570",
   "lastOpenFiles": [
-    "SI/18-sett.md",
+    "img/NFA01.png",
+    "img/Screenshot_20250924_155246.png",
+    "ML/24-sett.md",
+    "LCMC/24-sett.md",
+    "LCMC/23-sett.md",
+    "DS/22-sett.md",
     "SI/19-sett.md",
+    "img/dfa.png",
+    "img/Screenshot_20250923_141845.png",
+    "LCMC",
+    "ML/22-sett.md",
+    "ML",
+    "SI/18-sett.md",
     "img/ERP.md",
     "img",
     "SI/img/ERP_arch.png",
