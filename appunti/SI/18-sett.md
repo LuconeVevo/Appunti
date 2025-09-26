@@ -19,6 +19,7 @@ Suddivisione delle mansioni aziendali su tre livelli
 - **Operazionale**: si occupa delle operazione a breve termine, implementa beni e servizi
 
 Il ==processo== e' l'insieme delle attivita' tra loro interrelate, finalizzate alla realizzazione di un risultato misurabile che avvicina l'azienda al raggiungimento della sua missione.
+
 L'analisi dell'azienda come insiemi di processi determina una vista ortogonale rispetto a quella basata sulla sua organizzazione e sulle funzioni svolte dalle diverse divisioni.
 I processi hanno bisogno di informazioni per poter operare, devono conoscere la risorsa su cui agiscono.
 La **capacita' elaborativa** (==Information Processing Capacity==) e' l'adeguatezza di un'organizzazione rispetto alle necessita' di elaborare informazioni a essa imposte dai propri obiettivi e dal contesto in cui opera.
