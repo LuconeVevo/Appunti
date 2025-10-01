@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SI/25-sett.md",
+                "file": "DS/29-sett.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-sett"
+              "title": "29-sett"
             }
           }
         ],
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "919c3e24d6bc81c3",
@@ -253,26 +254,33 @@
   },
   "active": "e264a53796d1bada",
   "lastOpenFiles": [
-    "SI/26-sett.md",
+    "img/chain_of_threats.png",
+    "img/chain.png",
+    "img/Screenshot_20251001_144308.png",
+    "SI/18-sett.md",
+    "DS/29-sett.md",
+    "LCMC/1-ott.md",
+    "ML/29-sett.md",
+    "img/overfitting.png",
+    "img/Screenshot_20250930_173845.png",
+    "img/precision-recall.png",
+    "img/Screenshot_20250930_162901.png",
+    "img/DET_ROC.png",
+    "img/Screenshot_20250930_154709.png",
+    "img/FNR_FPR_graph.png",
+    "img/Screenshot_20250930_154347.png",
+    "DS/22-sett.md",
+    "ML/24-sett.md",
     "SI/25-sett.md",
+    "SI/26-sett.md",
     "img/ERP.md",
     "LCMC/24-sett.md",
     "SI/19-sett.md",
     "LCMC/23-sett.md",
-    "SI/18-sett.md",
-    "img/NFA01.png",
-    "img/Screenshot_20250924_155246.png",
-    "ML/24-sett.md",
-    "DS/22-sett.md",
-    "img/dfa.png",
-    "img/Screenshot_20250923_141845.png",
     "LCMC",
     "ML/22-sett.md",
     "ML",
     "img",
-    "SI/img/ERP_arch.png",
-    "SI/img/Screenshot_20250919_152435.png",
-    "SI/img/SCADA_arch.png",
     "SI/img",
     "DS/19-sett.md",
     "DS",
